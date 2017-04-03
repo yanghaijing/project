@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Action.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Login-js/login.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Super--container/Super-common.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Super--container/Super-index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Super--container/SuperHead.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Super--container/super-container.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/HistoryDate.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/TodayDate.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/chakanxiangqing.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/class manage.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/class name.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/common.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/confirm.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/componment/content.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/content1.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/head.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/history-look-score.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/look_score.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/mask-add.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/mask.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/score.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/student-item.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/title.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/today-Date.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/componment/today_Date.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/container/container.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/loading/InputItem.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/reducers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/super--component/content.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/super--component/head.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/super--component/left_select.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/super--component/reducers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/super--component/select-item.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/super--component/selectItem.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/super--component/super item.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/super--component/super--score.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/super--component/super--teacher.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/super--component/super--title.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/super--component/superLeft.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/super/super.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/super/super1.js" charset="UTF-8" />
+  </component>
+</project>

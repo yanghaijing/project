@@ -1,0 +1,108 @@
+html,body{
+    height: 100%;
+}
+#root{
+    height: 100%;
+}
+.login-bg{
+    height: 100%;
+    width: 100%;
+    background: url("login.png") center no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.login-box{
+    width: 300px;
+    height: 343px;
+    margin: 0 auto;
+    margin-top: 15%;
+    font-family: 'Î¢ÈíÑÅºÚ';
+    font-size: 12px;
+    position: relative;
+}
+.select-item{
+    appearance:none;
+    -moz-appearance:none;
+    -webkit-appearance:none;
+    width:300px;
+    height: 43px;
+    line-height:43px;
+    padding-left:20px;
+    background-color: #8d8e90;
+    border-radius: 21.5px;
+    overflow: hidden;
+    box-sizing: border-box;
+    opacity: 0.8;
+    color: #ffffff;
+    margin-bottom:20px ;
+    outline:none;
+}
+.select-item:hover{
+    background-color: #1c1b21;
+}
+.login-box input{
+    outline: none;
+    border: 0 solid #ffffff;
+}
+.button-item{
+    width: 300px;
+    height: 43px;
+    line-height: 43px;
+    padding-left: 20px;
+    background-color: #eed63b;
+    border-radius: 21.5px;
+    overflow: hidden;
+    box-sizing: border-box;
+    opacity: 0.8;
+    color: #000;
+    font-size: 14px;
+    text-align: center;
+    outline: none;
+    border-width: 1px;
+}
+.button-item:hover{
+    box-shadow: 0 0 5px #000000;
+    background-color: #edcf0c;
+}
+.input-item{
+    width: 300px;
+    height: 43px;
+    line-height: 43px;
+    padding-left: 20px;
+    background-color: #8d8e90;
+    overflow: hidden;
+    border-radius: 21.5px;
+    box-sizing: border-box;
+    opacity: 0.8;
+    margin-bottom: 20px;
+}
+.id-box{
+    width: 300px;
+    height: 43px;
+    line-height: 43px;
+    overflow: hidden;
+    box-sizing: border-box;
+    opacity: 0.8;
+    margin-bottom: 20px;
+}
+.iden-left{
+    height: 100%;
+    width: 170px;
+    background-color: #8d8e90;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 21.5px;
+    padding-left: 20px;
+}
+.iden-right{
+    height: 100%;
+    width: 120px;
+    background-color: #ebd85d;
+    float: right;
+    border-radius: 21.5px;
+    border-width: 1px;
+    outline: none;
+}
+.iden-right:hover{
+    background-color: #edcf0c;
+}

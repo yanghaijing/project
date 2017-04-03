@@ -1,0 +1,149 @@
+.content-box{
+    width: 100%;
+    background-color: #EAEAEA;
+    float: left;
+    box-sizing: border-box;
+}
+.inner-box{
+    width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
+
+}
+.title-student{
+    width: 100%;
+    background-color: #eed63b;
+    height: 40px;
+    line-height: 40px;
+    margin:20px 0;
+}
+.img{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background: url("../img/student-1.png") center center no-repeat;
+    background-size: contain;
+    margin: 0 10px 0 20px;
+}
+h3{
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+.student-box{
+    margin: 0 -1%;
+}
+.student-item{
+    position: relative;
+    width: 23%;
+    line-height: 80px;
+    margin:0 1%;
+    margin-top: 20px;
+    float: left;
+    font-size: 28px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: #fff;
+    cursor: pointer;
+}
+.student-item:hover{
+    background-color: #eed63b;
+}
+.student-item-leave{
+    width: 50%;
+    height: 50%;
+    border: 1px solid red;
+    transform: rotate(-10deg);
+    color: red;
+    line-height: 30px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.mask{
+    width:100%;
+    height:100%;
+    background-color: #2e2e2e;
+    opacity: 0.5;
+    position: fixed;
+}
+.confirm-student{
+    width: 388px;
+    height: 400px;
+    background-color: #fff;
+    position: fixed;
+    top:50%;
+    left:50%;
+    margin-top: -200px;
+    margin-left:-194px;
+}
+.confirm-student-title{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 24px;
+    padding:15px 10px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #ccc;
+}
+.confirm-student-title span{
+    font-weight: bold;
+    font-size: 12px;
+}
+h5{
+    padding: 0;
+    margin: 0;
+}
+.confirm-student-body{
+    width: 310px;
+    margin: 0 auto;
+    margin-top: 8px;
+    padding-top: 8px;
+}
+.form-box{
+    width: 100%;
+    height: 38px;
+    margin-top: 8px;
+}
+.confirm-student-body label{
+    display: inline-block;
+    width: 60px;
+    /*height: 100%;*/
+    background-color: #eed63b;
+    text-align: center;
+    line-height: 38px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.confirm-student-body input{
+    display: inline-block;
+    border-style: none;
+    width: 250px;
+    height: 38px;
+    box-sizing: border-box;
+    padding-left: 10px;
+    font-size: 15px;
+    outline: medium ;
+    background-color: #f3e275;
+}
+.control-student{
+    margin-top: 16px;
+}
+.control-student label{
+    width: 78px;
+    height: 25px;
+    line-height: 25px;
+    cursor: pointer;
+}
+.control-student label:nth-of-type(1){
+    float: left;
+
+    background-color: #333333;
+}
+.control-student label:nth-of-type(2){
+    float: right;
+    color: #000;
+}
